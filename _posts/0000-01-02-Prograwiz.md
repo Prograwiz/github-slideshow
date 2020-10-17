@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Becoming a programmer is a long and hard path...
 Use the left arrow to go back!
